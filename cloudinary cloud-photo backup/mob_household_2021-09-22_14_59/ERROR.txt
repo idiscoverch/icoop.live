@@ -1,0 +1,2 @@
+ZIP truncated. Processed 242 out of 644 files.
+ZIP containing all files must be less than the raw file size limit for your cloud (www-idiscover-live) which is 100 MB.

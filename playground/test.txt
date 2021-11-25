@@ -1,0 +1,7 @@
+INSERT INTO public.story(    
+					    
+					story_createdby, created_by, id_author, created_date
+				 ) VALUES (    
+					    
+					5070, 5070, 5070, 2018-04-10 14:18
+				)

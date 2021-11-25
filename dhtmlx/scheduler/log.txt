@@ -1,0 +1,480 @@
+
+
+====================================
+Log started, 28/03/2019 03:50:57
+====================================
+
+DataProcessor object initialized
+5_id => 5
+5_start_date => 2019-02-11 12:00
+5_end_date => 2019-02-26 12:00
+5_text => Thintchebe
+5_details => 
+5_!nativeeditor_status => updated
+ids => 5
+
+Row data [5]
+id_task => 5
+task_titleshort => 2019-02-11 12:00
+gantt_start_date => 2019-02-26 12:00
+gantt_end_date => Thintchebe
+details => 
+!nativeeditor_status => updated
+
+Update project_task set gantt_start_date='2019-02-26 12:00', gantt_end_date='Thintchebe', task_titleshort='2019-02-11 12:00' where id_task=5
+
+Edit operation finished
+0 => action:updated; sid:5; tid:5;
+
+Done in 0.0097570419311523s
+
+
+
+====================================
+Log started, 28/03/2019 04:00:59
+====================================
+
+DataProcessor object initialized
+212_id => 212
+212_start_date => 2019-02-11 12:00
+212_end_date => 2019-02-26 12:00
+212_text => Thintchebe
+212_details => 
+212_!nativeeditor_status => updated
+ids => 212
+
+Row data [212]
+id_task => 212
+task_titleshort => 2019-02-11 12:00
+gantt_start_date => 2019-02-26 12:00
+gantt_end_date => Thintchebe
+details => 
+!nativeeditor_status => updated
+
+Update project_task set gantt_end_date='Thintchebe', task_titleshort='2019-02-11 12:00', gantt_start_date='2019-02-26 12:00' where id_task=212
+
+
+
+====================================
+Log started, 28/03/2019 04:06:49
+====================================
+
+DataProcessor object initialized
+212_id => 212
+212_start_date => 2019-02-11 12:00
+212_end_date => 2019-02-26 12:00
+212_text => Thintchebe
+212_details => 
+212_!nativeeditor_status => updated
+ids => 212
+
+Row data [212]
+id_task => 212
+task_titleshort => 2019-02-11 12:00
+gantt_start_date => 2019-02-26 12:00
+gantt_end_date => Thintchebe
+details => 
+!nativeeditor_status => updated
+
+Update project_task set gantt_end_date='Thintchebe', task_titleshort='2019-02-11 12:00', gantt_start_date='2019-02-26 12:00' where id_task=212
+
+Edit operation finished
+0 => action:updated; sid:212; tid:212;
+
+Done in 6679.7685878277s
+
+Edit operation finished
+0 => action:updated; sid:212; tid:212;
+
+Done in 6330.2474360466s
+
+
+
+====================================
+Log started, 28/03/2019 05:52:19
+====================================
+
+SELECT  id_task, task_titleshort, gantt_start_date, gantt_end_date, duration FROM project_task WHERE ( gantt_start_date IS NOT NULL) ORDER BY id_task DESC
+
+Done in 0.0037271976470947s
+
+
+
+====================================
+Log started, 28/03/2019 05:52:19
+====================================
+
+SELECT  id_task, task_titleshort, gantt_start_date, gantt_end_date, duration FROM project_task WHERE ( gantt_start_date IS NOT NULL) ORDER BY id_task DESC
+
+Done in 0.0051288604736328s
+
+
+
+====================================
+Log started, 28/03/2019 10:33:20
+====================================
+
+DataProcessor object initialized
+212_id => 212
+212_start_date => 2019-02-11 12:00
+212_end_date => 2019-02-26 12:00
+212_text => 2019-02-11 12:00
+212_details => 
+212_!nativeeditor_status => updated
+ids => 212
+
+Row data [212]
+id_task => 212
+gantt_start_date => 2019-02-11 12:00
+gantt_end_date => 2019-02-26 12:00
+task_titleshort => 2019-02-11 12:00
+details => 
+!nativeeditor_status => updated
+
+Update project_task set gantt_start_date='2019-02-11 12:00', gantt_end_date='2019-02-26 12:00', task_titleshort='2019-02-11 12:00' where id_task=212
+
+Edit operation finished
+0 => action:updated; sid:212; tid:212;
+
+Done in 0.090336084365845s
+
+
+
+====================================
+Log started, 28/03/2019 10:34:35
+====================================
+
+SELECT  id_task, task_titleshort, gantt_start_date, gantt_end_date, duration FROM project_task WHERE ( gantt_start_date IS NOT NULL) ORDER BY id_task DESC
+
+Done in 0.0057852268218994s
+
+
+
+====================================
+Log started, 28/03/2019 10:40:46
+====================================
+
+DataProcessor object initialized
+212_id => 212
+212_start_date => 2019-02-11 12:00
+212_end_date => 2019-02-25 12:00
+212_text => Thintchebe
+212_details => 
+212_!nativeeditor_status => updated
+ids => 212
+
+Row data [212]
+id_task => 212
+gantt_start_date => 2019-02-11 12:00
+gantt_end_date => 2019-02-25 12:00
+task_titleshort => Thintchebe
+details => 
+!nativeeditor_status => updated
+
+Update project_task set gantt_start_date='2019-02-11 12:00', gantt_end_date='2019-02-25 12:00', task_titleshort='Thintchebe' where id_task=212
+
+Edit operation finished
+0 => action:updated; sid:212; tid:212;
+
+Done in 0.081398010253906s
+
+
+
+====================================
+Log started, 28/03/2019 10:41:51
+====================================
+
+DataProcessor object initialized
+212_id => 212
+212_start_date => 2019-02-11 12:00
+212_end_date => 2019-02-26 12:00
+212_text => Thintchebe
+212_details => 
+212_!nativeeditor_status => updated
+ids => 212
+
+Row data [212]
+id_task => 212
+gantt_start_date => 2019-02-11 12:00
+gantt_end_date => 2019-02-26 12:00
+task_titleshort => Thintchebe
+details => 
+!nativeeditor_status => updated
+
+Update project_task set gantt_start_date='2019-02-11 12:00', gantt_end_date='2019-02-26 12:00', task_titleshort='Thintchebe' where id_task=212
+
+Edit operation finished
+0 => action:updated; sid:212; tid:212;
+
+Done in 0.097512006759644s
+
+
+
+====================================
+Log started, 28/03/2019 10:44:34
+====================================
+
+DataProcessor object initialized
+212_id => 212
+212_start_date => 2019-02-11 12:00
+212_end_date => 2019-02-26 12:00
+212_text => Thintchebe
+212_details => 
+212_!nativeeditor_status => updated
+ids => 212
+
+Row data [212]
+id_task => 212
+gantt_start_date => 2019-02-11 12:00
+gantt_end_date => 2019-02-26 12:00
+task_titleshort => Thintchebe
+details => 
+!nativeeditor_status => updated
+
+Update project_task set gantt_start_date='2019-02-11 12:00', gantt_end_date='2019-02-26 12:00', task_titleshort='Thintchebe' where id_task=212
+
+Edit operation finished
+0 => action:updated; sid:212; tid:212;
+
+Done in 0.091147184371948s
+
+
+
+====================================
+Log started, 28/03/2019 10:49:11
+====================================
+
+DataProcessor object initialized
+212_id => 212
+212_start_date => 2019-02-11 12:00
+212_end_date => 2019-02-25 12:00
+212_text => Thintchebe
+212_details => 
+212_!nativeeditor_status => updated
+ids => 212
+
+Row data [212]
+id_task => 212
+gantt_start_date => 2019-02-11 12:00
+gantt_end_date => 2019-02-25 12:00
+task_titleshort => Thintchebe
+details => 
+!nativeeditor_status => updated
+
+Update project_task set gantt_start_date='2019-02-11 12:00', gantt_end_date='2019-02-25 12:00', task_titleshort='Thintchebe' where id_task=212
+
+Edit operation finished
+0 => action:updated; sid:212; tid:212;
+
+Done in 0.076601028442383s
+
+
+
+====================================
+Log started, 28/03/2019 11:03:40
+====================================
+
+DataProcessor object initialized
+212_id => 212
+212_start_date => 2019-02-11 12:00
+212_end_date => 2019-02-26 12:00
+212_text => Thintchebe
+212_details => 
+212_!nativeeditor_status => updated
+ids => 212
+
+Row data [212]
+id_task => 212
+start_date => 2019-02-11 12:00
+due_date => 2019-02-26 12:00
+task_titleshort => Thintchebe
+details => 
+!nativeeditor_status => updated
+
+Update project_task set start_date='2019-02-11 12:00', due_date='2019-02-26 12:00', task_titleshort='Thintchebe' where id_task=212
+
+Edit operation finished
+0 => action:updated; sid:212; tid:212;
+
+Done in 0.096061944961548s
+
+
+
+====================================
+Log started, 28/03/2019 11:04:52
+====================================
+
+DataProcessor object initialized
+212_id => 212
+212_start_date => 2019-02-11 12:00
+212_end_date => 2019-02-25 12:00
+212_text => Thintchebe
+212_details => 
+212_!nativeeditor_status => updated
+ids => 212
+
+Row data [212]
+id_task => 212
+start_date => 2019-02-11 12:00
+due_date => 2019-02-25 12:00
+task_titleshort => Thintchebe
+details => 
+!nativeeditor_status => updated
+
+Update project_task set start_date='2019-02-11 12:00', due_date='2019-02-25 12:00', task_titleshort='Thintchebe' where id_task=212
+
+Edit operation finished
+0 => action:updated; sid:212; tid:212;
+
+Done in 0.11421990394592s
+
+
+
+====================================
+Log started, 01/04/2019 09:40:19
+====================================
+
+DataProcessor object initialized
+212_id => 212
+212_start_date => 2019-02-11 12:00
+212_end_date => 2019-02-13 12:00
+212_text => Thintchebe
+212_details => 
+212_!nativeeditor_status => updated
+ids => 212
+
+Row data [212]
+id_task => 212
+start_date => 2019-02-11 12:00
+due_date => 2019-02-13 12:00
+task_titleshort => Thintchebe
+details => 
+!nativeeditor_status => updated
+
+Update project_task set start_date='2019-02-11 12:00', due_date='2019-02-13 12:00', task_titleshort='Thintchebe' where id_task=212
+
+Edit operation finished
+0 => action:updated; sid:212; tid:212;
+
+Done in 0.051618099212646s
+
+
+
+====================================
+Log started, 04/04/2019 11:02:15
+====================================
+
+DataProcessor object initialized
+260_id => 260
+260_start_date => 2019-04-03 12:00
+260_end_date => 2019-05-03 12:05
+260_text => Abidjan
+260_details => Test farmers and plantations
+260_!nativeeditor_status => updated
+ids => 260
+
+Row data [260]
+id_task => 260
+planned_start_date => 2019-04-03 12:00
+planned_end_date => 2019-05-03 12:05
+task_titleshort => Abidjan
+details => Test farmers and plantations
+!nativeeditor_status => updated
+
+Update project_task set planned_start_date='2019-04-03 12:00', planned_end_date='2019-05-03 12:05', task_titleshort='Abidjan' where id_task=260
+
+Edit operation finished
+0 => action:updated; sid:260; tid:260;
+
+Done in 0.08644700050354s
+
+
+
+====================================
+Log started, 05/04/2019 02:27:58
+====================================
+
+DataProcessor object initialized
+241_id => 241
+241_start_date => 2019-04-02 12:00
+241_end_date => 2019-04-15 12:00
+241_text => Allohoure
+241_details => 
+241_!nativeeditor_status => updated
+ids => 241
+
+Row data [241]
+id_task => 241
+planned_start_date => 2019-04-02 12:00
+planned_end_date => 2019-04-15 12:00
+task_titleshort => Allohoure
+details => 
+!nativeeditor_status => updated
+
+Update project_task set planned_start_date='2019-04-02 12:00', planned_end_date='2019-04-15 12:00', task_titleshort='Allohoure' where id_task=241
+
+
+
+====================================
+Log started, 05/04/2019 02:27:58
+====================================
+
+DataProcessor object initialized
+241_id => 241
+241_start_date => 2019-04-02 12:00
+241_end_date => 2019-04-15 12:00
+241_text => Allohoure
+241_details => 
+241_!nativeeditor_status => updated
+ids => 241
+
+Row data [241]
+id_task => 241
+planned_start_date => 2019-04-02 12:00
+planned_end_date => 2019-04-15 12:00
+task_titleshort => Allohoure
+details => 
+!nativeeditor_status => updated
+
+Update project_task set planned_start_date='2019-04-02 12:00', planned_end_date='2019-04-15 12:00', task_titleshort='Allohoure' where id_task=241
+
+Edit operation finished
+0 => action:updated; sid:241; tid:241;
+
+Done in 0.094234943389893s
+
+Edit operation finished
+0 => action:updated; sid:241; tid:241;
+
+Done in 0.10492491722107s
+
+
+
+====================================
+Log started, 14/06/2020 12:16:19
+====================================
+
+DataProcessor object initialized
+456_id => 456
+456_start_date => 2020-05-06 12:05
+456_end_date => 2020-07-15 12:05
+456_text => Caimpex V2
+456_details => 
+456_!nativeeditor_status => updated
+ids => 456
+
+Row data [456]
+id_task => 456
+planned_start_date => 2020-05-06 12:05
+planned_end_date => 2020-07-15 12:05
+task_titleshort => Caimpex V2
+details => 
+!nativeeditor_status => updated
+
+Update project_task set planned_start_date='2020-05-06 12:05', planned_end_date='2020-07-15 12:05', task_titleshort='Caimpex V2' where id_task=456
+
+Edit operation finished
+0 => action:updated; sid:456; tid:456;
+
+Done in 0.10157895088196s
+

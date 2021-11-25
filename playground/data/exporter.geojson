@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id_exporter": 1, "name_exporter": "HMA", "id_town": 5500, "name_town": "Abidjan", "id_country": 1, "name_country": "COTE D'IVOIRE", "coord_X": 5.295328, "coord_Y": -3.94888, "id_culture": 1 }, "geometry": null }
+]
+}

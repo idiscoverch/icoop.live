@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": 2, "nom": "Dakar", "pays": "Sénégal" }, "geometry": { "type": "Point", "coordinates": [ -17.417159026195854, 14.740016005125295 ] } },
+{ "type": "Feature", "properties": { "id": 1, "nom": "Abidjan", "pays": "Côte d'Ivoire" }, "geometry": { "type": "Point", "coordinates": [ -3.994678957858699, 5.306048536446464 ] } },
+{ "type": "Feature", "properties": { "id": 6, "nom": "Bern", "pays": "Suisse" }, "geometry": { "type": "Point", "coordinates": [ 7.341890304669421, 46.960919336560842 ] } },
+{ "type": "Feature", "properties": { "id": 6, "nom": "Phnom Penh", "pays": "Cambodge" }, "geometry": { "type": "Point", "coordinates": [ 104.99458107915783, 11.684865805808801 ] } },
+{ "type": "Feature", "properties": { "id": 5, "nom": "Khartoum", "pays": "Soudan" }, "geometry": { "type": "Point", "coordinates": [ 32.60826274202747, 16.097735965262146 ] } },
+{ "type": "Feature", "properties": { "id": 4, "nom": "Dar es Salaam", "pays": "Tanzanie" }, "geometry": { "type": "Point", "coordinates": [ 39.048183015376033, -6.684154695330268 ] } },
+{ "type": "Feature", "properties": { "id": 3, "nom": "Maputo", "pays": "Mozambique" }, "geometry": { "type": "Point", "coordinates": [ 32.637412798975092, -25.853680606492112 ] } }
+]
+}
